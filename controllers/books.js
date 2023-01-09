@@ -1,4 +1,3 @@
-const Task = require("../../../../Videos/Tutorials/node and express/taskManagerApi/models/Task");
 const Book = require("../models/book");
 
 const getAllBooks = async (req, res) => {
